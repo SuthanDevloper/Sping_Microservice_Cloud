@@ -1,0 +1,8 @@
+server.port=9696
+
+#serveice id or name
+spring.application.name=ZUUL-SERVER
+
+#Public application
+eureka.client.service-url.default-zone=http://localhost:8761/eureka
+

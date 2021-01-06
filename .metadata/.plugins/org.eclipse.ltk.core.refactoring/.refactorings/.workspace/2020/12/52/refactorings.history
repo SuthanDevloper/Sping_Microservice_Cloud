@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;25.Microservice_Sleuth_ZipkinClient_three&apos; to &apos;26.Microservice_Sleuth_ZipkinClient_three&apos;&#x0D;&#x0A;- Original element: &apos;25.Microservice_Sleuth_ZipkinClient_three&apos;&#x0D;&#x0A;- Renamed element: &apos;25.Microservice_Sleuth_ZipkinClient_three&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;25.Microservice_Sleuth_ZipkinClient_three&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=25.Microservice_Sleuth_ZipkinClient_three" name="26.Microservice_Sleuth_ZipkinClient_three" references="true" stamp="1608740317775" version="1.0"/>
+</session>

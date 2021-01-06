@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;26.Microservice_Sleuth_ZipkinClient_three/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;25.Microservice_Sleuth_ZipkinClient_two&apos;&#x0D;&#x0A;- Destination element: &apos;26.Microservice_Sleuth_ZipkinClient_three/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     25.Microservice_Sleuth_ZipkinClient_two/src/main/java/com.suthan.config&#x0D;&#x0A;     25.Microservice_Sleuth_ZipkinClient_two/src/main/java/com.suthan.rest" description="Copy packages" destination="=26.Microservice_Sleuth_ZipkinClient_three/src\/main\/java" element1="/src\/main\/java&lt;com.suthan.config" element2="/src\/main\/java&lt;com.suthan.rest" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1608740375872" version="1.0"/>
+</session>

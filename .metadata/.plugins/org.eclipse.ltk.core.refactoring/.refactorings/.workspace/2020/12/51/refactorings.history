@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;19.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer&apos; to &apos;20.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer&apos;&#x0D;&#x0A;- Original element: &apos;19.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer&apos;&#x0D;&#x0A;- Renamed element: &apos;19.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;19.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=19.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer" name="20.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer" references="true" stamp="1607933007306" version="1.0"/>
+</session>

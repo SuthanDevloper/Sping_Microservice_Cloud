@@ -1,0 +1,5 @@
+package com.suthan.config;
+
+public class AppConfig {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.suthan.consumer.MessageReader&apos; to &apos;MessageReaderTwo&apos;&#x0D;&#x0A;- Original project: &apos;21.SpringCloud_MQ_JMS_ACTIVEMQ_Multiple_Consumer2&apos;&#x0D;&#x0A;- Original element: &apos;com.suthan.consumer.MessageReader&apos;&#x0D;&#x0A;- Renamed element: &apos;com.suthan.consumer.MessageReaderTwo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MessageReader&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.suthan.consumer{MessageReader.java[MessageReader" matchStrategy="1" name="MessageReaderTwo" qualified="false" references="true" similarDeclarations="false" stamp="1607933268320" textual="false" version="1.0"/>
+</session>
